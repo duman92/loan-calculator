@@ -1,6 +1,6 @@
 // src/app/page.js
 import React from 'react';
-import { LoanCalculator } from './components/ui/LoanCalculator';
+import { LoanCalculator } from './components/LoanCalculator';
 
 export default function Home() {
   return (
