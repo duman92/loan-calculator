@@ -1,5 +1,4 @@
-// app/layout.tsx
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({ children }) {
   return (
     <html lang="ru">
       <body>{children}</body>
